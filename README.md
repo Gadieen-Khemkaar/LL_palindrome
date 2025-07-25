@@ -96,6 +96,6 @@ You can solve this in **O(1) space** by:
 ### 📁 File Structure
 
 ```
-├── is_palindrome.cpp     # Main C++ code
+├── LL_palindrome.cpp     # Main C++ code
 └── README.md             # You are here
 ```
